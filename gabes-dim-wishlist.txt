@@ -10,6 +10,8 @@ dimwishlist:item=1119734784&perks=1482024992,3177308360,1820235745,1015611457
 //Shayura's Wrath (Adept)
 //notes: gabe's list - pvp roll - MW(stability/range) - (small,flared,dsr,killclip)
 dimwishlist:item=4023807721&perks=1482024992,3230963543,1359896290,1015611457
+//notes: gabe's list - big stability roll (void subclass) - MW(stability) - (hammer,steady,dsr,elemcap)
+dimwishlist:item=4023807721&perks=3250034553,3177308360,1359896290,3511092054
 
 //Cartesian Coordinate
 //notes: gabe's list - dps roll - MW(range/reload) - (micro,liquid,underpres,vorp)
