@@ -1,5 +1,5 @@
 title:gabe's dim wishlist items
-descriptions:guns for popping off
+description:guns for popping off
 
 //Chroma Rush
 //notes: test gun - gabe's list - pve roll - MW(reload) - (cork,tactical,dsr,rampage)
