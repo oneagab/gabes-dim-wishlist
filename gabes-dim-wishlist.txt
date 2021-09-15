@@ -25,3 +25,6 @@ dimwishlist:item=1399243961&perks=4090651448,1687452232,3400784728,1546637391
 //notes: gabe's list - pve roll - MW(reload) - (small,light,subsist,rampage)
 dimwishlist:item=2481758391&perks=1482024992,679225683,1820235745,3425386926
 
+//Scathelocke
+//notes: gabe's list - pve roll for never reloading - MW(stability) - CBmod - (poly,steady,subsist,rampage)
+dimwishlist:item=602618796&perks=1392496348,3177308360,1820235745,3425386926
