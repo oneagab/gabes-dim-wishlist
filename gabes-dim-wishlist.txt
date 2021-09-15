@@ -4,6 +4,8 @@ description:guns for popping off
 //Chroma Rush
 //notes: test gun - gabe's list - pve roll - MW(reload) - (cork,tactical,dsr,rampage)
 dimwishlist:item=1119734784&perks=4090651448,106909392,1359896290,3425386926
+//notes: test gun 2 - gabe's list - pve roll - MW(reload) - (small,steady,subsist,killclip)
+dimwishlist:item=1119734784&perks=1482024992,3177308360,1820235745,1015611457
 
 //Shayura's Wrath (Adept)
 //notes: gabe's list - pvp roll - MW(stability/range) - (small,flared,dsr,killclip)
