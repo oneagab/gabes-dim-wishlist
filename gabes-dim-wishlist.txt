@@ -1,0 +1,27 @@
+title:gabe's dim wishlist items
+descriptions:guns for popping off
+
+//Chroma Rush
+//notes: test gun - gabe's list - pve roll - MW(reload) - (cork,tactical,dsr,rampage)
+dimwishlist:item=1119734784&perks=4090651448,106909392,1359896290,3425386926
+
+//Shayura's Wrath (Adept)
+//notes: gabe's list - pvp roll - MW(stability/range) - (small,flared,dsr,killclip)
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1359896290,1015611457
+
+//Cartesian Coordinate
+//notes: gabe's list - dps roll - MW(range/reload) - (micro,liquid,underpres,vorp)
+dimwishlist:item=2481881293&perks=2405638014,1687452232,1645158859,1546637391
+
+//Threaded Needle
+//notes: gabe's list - dps roll - MW(reload) - (cork,liquid,rap,vorp)
+dimwishlist:item=3075224551&perks=4090651448,1687452232,247725512,1546637391
+
+//Reed's Regret
+//notes: gabe's list - dps roll - MW(reload) - (cork,liquid,trip,vorp)
+dimwishlist:item=1399243961&perks=4090651448,1687452232,3400784728,1546637391
+
+//Darkest Before
+//notes: gabe's list - pve roll - MW(reload) - (small,light,subsist,rampage)
+dimwishlist:item=2481758391&perks=1482024992,679225683,1820235745,3425386926
+
