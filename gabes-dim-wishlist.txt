@@ -10,8 +10,10 @@ dimwishlist:item=4023807721&perks=3250034553,3177308360,1359896290,3511092054
 dimwishlist:item=4023807721&perks=4090651448,3177308360,1359896290,3511092054
 
 //Cartesian Coordinate
-//notes: gabe's list - dps roll - MW(range/reload) - (micro,liquid,underpres,vorp)
+//notes: gabe's list - dps roll long window - MW(range/reload) - (micro,liquid,underpres,vorp)
 dimwishlist:item=2481881293&perks=2405638014,1687452232,1645158859,1546637391
+//notes: gabe's list - dps roll short window - MW(charge time) - micro,accel,underpres,vorp)
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,1546637391
 
 //Threaded Needle
 //notes: gabe's list - dps roll - MW(reload) - (cork,liquid,rap,vorp)
